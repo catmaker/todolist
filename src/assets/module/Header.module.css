@@ -1,0 +1,9 @@
+.h1 {
+  color: white;
+  font-family: "nexon";
+  font-size: 1.5rem;
+}
+@font-face {
+  font-family: "nexon";
+  src: url(../fonts/nexonLv1-Regular.woff);
+}

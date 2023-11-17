@@ -1,0 +1,32 @@
+.todo__form__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.todo__input {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ff66b2;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.add__button {
+  background-color: #ff66b2;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  min-width: 7rem;
+
+  margin-top: 0.33rem;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.add__button:hover {
+  background-color: #e0559b;
+}

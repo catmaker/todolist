@@ -1,0 +1,21 @@
+.todo__list__container {
+  max-width: 400px;
+  margin: auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 5rem;
+}
+
+.todo__list__title {
+  color: #ff66b2;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+}
+
+.todo__list {
+  list-style-type: none;
+  padding: 0;
+}
